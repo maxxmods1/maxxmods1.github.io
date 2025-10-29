@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://urmaxx.in/sitemap.xml
+Content-signal: search=yes, ai-input=yes, ai-train=yes
